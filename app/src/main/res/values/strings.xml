@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Volvo Pre-listen</string>
-    <string name="browsable_tab_label">Volvo Pre-listen</string>
+    <string name="app_name">Media Sample</string>
+    <string name="browsable_tab_label">Media Sample</string>
 
-    <string name="abba_premier_song_title">Premier song title</string>
-    <string name="abba_premier_song_subtitle">Premier song subtitle</string>
-    <string name="abba_premier_song_description">Premier song description</string>
-    <string name="premier_song_artist_name">Abba</string>
+    <string name="sample_song_title">Sample song title</string>
+    <string name="sample_song_subtitle">Sample song subtitle</string>
+    <string name="sample_song_description">Sample song description</string>
+    <string name="sample_artist_name">Sample Artist</string>
 </resources>

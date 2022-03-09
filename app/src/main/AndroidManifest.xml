@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.volvocars.otaevent">
+    package="com.volvocars.mediasample">
 
     <uses-feature
         android:name="android.hardware.type.automotive"
@@ -20,20 +20,20 @@
         android:required="true" />
 
     <application
-        android:name=".MediaApplication"
+        android:name="com.volvocars.mediasample.MediaApplication"
         android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
         android:appCategory="audio"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.OTAEvent">
+        android:theme="@style/Theme.MediaSample">
 
         <meta-data android:name="com.android.automotive"
             android:resource="@xml/automotive_app_desc"/>
 
         <service
-            android:name=".mediaplayback.MusicService"
+            android:name="com.volvocars.mediasample.mediaplayback.MusicService"
             android:enabled="true"
             tools:ignore="ExportedService"
             android:exported="true">
