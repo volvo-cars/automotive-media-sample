@@ -5,21 +5,21 @@ The app is structured to follow Android's Media playback architecture. For an An
 
 The project is structured as follows:
 
-####Media Playback layer
+#### Media Playback layer
 This consists of the media plyback client components and the media service.
 
-####Domain Layer
+#### Domain Layer
 
 Here you will find all the domain models and entities for the application
 
-####Data access layer
+#### Data access layer
 This layer is responsible for sourcing the media to play
 
-####Common
+#### Common
 shared utilities and helpers live here. 
 
-##Running the app
-###Prerequisties
+## Running the app
+### Prerequisties
 * Android studio 4.2+
 * Android Automotive emulator
 * The computer you're testing the app with should have speakers so you can hear the track playing (obvious, but overlooked sometimes).
