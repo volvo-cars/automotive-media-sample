@@ -28,4 +28,4 @@ shared utilities and helpers live here.
 
 Checkout the [Volvo Cars developer portal](https://developer.android.com/guide/topics/media-apps/media-apps-overview) for more information on creating apps for cars.
 
-Once everything is setup, simple clone this repository, build and run the app on the target emulator.
+Once everything is setup, simply clone this repository, build and run the app on the target emulator.
