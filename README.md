@@ -7,24 +7,24 @@ The app is structured to follow Android's Media playback architecture. For an An
 
 The project is structured as follows:
 
-#### Media Playback layer
-This consists of the media plyback client components and the media service.
+#### Media Playback Layer
+This consists of the media playback client components and the media service.
 
 #### Domain Layer
 
-Here you will find all the domain models and entities for the application
+Here you will find all the domain models and entities for the application.
 
-#### Data access layer
-This layer is responsible for sourcing the media to play
+#### Data Access Layer
+This layer is responsible for sourcing the media to play.
 
 #### Common
-shared utilities and helpers live here. 
+Shared utilities and helpers live here. 
 
-## Running the app
+## Running the App
 ### Prerequisties
 * Android studio 4.2+
 * Android Automotive emulator
-* The computer you're testing the app with should have speakers so you can hear the track playing (obvious, but overlooked sometimes).
+* The computer you're testing the app with should have speakers so you can hear the track playing (obvious, but overlooked sometimes)
 
 Checkout the [Volvo Cars developer portal](https://developer.android.com/guide/topics/media-apps/media-apps-overview) for more information on creating apps for cars.
 
