@@ -21,7 +21,7 @@ This layer is responsible for sourcing the media to play.
 Shared utilities and helpers live here. 
 
 ## Running the App
-### Prerequisties
+### Prerequisites
 * Android studio 4.2+
 * Android Automotive emulator
 * The computer you're testing the app with should have speakers so you can hear the track playing (obvious, but overlooked sometimes)
