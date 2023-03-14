@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/volvo-cars/automotive-media-sample/blob/main/LICENSE.md)
 
-A media application designed for Android Automotive.
+A sample media application designed for Android Automotive.
 
 The app is structured to follow Android's Media playback architecture. For an Android automotive app, this means that the app **doesn't have an activity** of its own. The UI is drawn by the system, and the app is responsible for providing the data to display and play in a structured manner. For more information, and resources on how to build media apps, please read the [official Android documentation](https://developer.android.com/guide/topics/media-apps/media-apps-overview).
 
@@ -36,4 +36,4 @@ Shared utilities and helpers live here.
 
 Checkout the [Volvo Cars Developer Portal](https://developer.volvocars.com/android-automotive/) for more information on creating apps for cars.
 
-Once everything is setup, simply clone this repository, build and run the app on the target emulator.
+Once everything is set up, simply clone this repository, build, and run the app on the target emulator.
