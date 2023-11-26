@@ -34,6 +34,6 @@ Shared utilities and helpers live here.
 - Android Automotive emulator
 - The computer you're testing the app with should have speakers so you can hear the track playing (obvious, but overlooked sometimes)
 
-Checkout the [Volvo Cars Developer Portal](https://developer.volvocars.com/android-automotive/) for more information on creating apps for cars.
+Checkout the [Volvo Cars Developer Portal](https://developer.volvocars.com/in-car-apps/) for more information on creating apps for cars.
 
 Once everything is set up, simply clone this repository, build, and run the app on the target emulator.
